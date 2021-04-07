@@ -1,5 +1,5 @@
 ### Screenshot
-img src="https://github.com/Yayan-XD/lockfb/blob/main/.img/IMG_20210407_113559.jpg" />
+<img src="https://github.com/Yayan-XD/lockfb/blob/main/.img/IMG_20210407_113559.jpg" />
 
 ### Install
 ```bash
