@@ -1,3 +1,5 @@
+<img src="https://github.com/Yayan-XD/lockfb/blob/main/.img/Screenshot_20210407_112911.jpg" />
+
 ### Install
 ```bash
 $pkg update && pkg upgrade
