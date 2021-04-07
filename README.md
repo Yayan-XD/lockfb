@@ -1,10 +1,11 @@
 ### Screenshot
-%img src="https://github.com/Yayan-XD/lockfb/blob/main/.img/Screenshot_20210407_112911.jpg" />
+img src="https://github.com/Yayan-XD/lockfb/blob/main/.img/IMG_20210407_113559.jpg" />
 
 ### Install
 ```bash
-$pkg update && pkg upgrade
-$ pkg install python git 
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install git  
 $ pip insttall requests bs4
 $ git clone https://github.com/Yayan-XD/lockfb
 $ cd lockfb
