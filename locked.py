@@ -26,9 +26,6 @@ def aahh(s):
         sys.stdout.flush()
         time.sleep(0.01)
 
-def hapus():
-        os.system("git pull")
-
 ua = {"user-agent":"chrome"}
 prvt = []
 ses = r.Session()
@@ -91,5 +88,4 @@ def main():
 
 if __name__=="__main__": 
 	os.system("clear")
-        hapus()
 	main()
