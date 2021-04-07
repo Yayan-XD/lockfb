@@ -5,6 +5,6 @@ if sys.version[0:3] != "3.9":
 
 if __name__=="__main__": 
   try:
-    __import__("brute").main()
+    __import__("brute.c").main()
   except Exception as E:
     exit(str(E))
