@@ -25,8 +25,9 @@ def aahh(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(0.01)
+
 def hapus():
-    os.system("git pull")
+        os.system("git pull")
 
 ua = {"user-agent":"chrome"}
 prvt = []
