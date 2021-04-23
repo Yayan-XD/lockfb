@@ -1,7 +1,7 @@
 ### Screenshot
 <img src="https://github.com/Yayan-XD/lockfb/blob/main/.img/IMG_20210407_113559.jpg" />
 
-#### metode login: [cookies](https://youtu.be/72zvkSbVPOI)
+#### metode login: [cookies](https://youtu.be/DF7bUCn0GFY)
 
 ### Install
 ```bash
